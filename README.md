@@ -9,7 +9,7 @@ This repository includes a production-ready **Node.js REST API**, **React fronte
 ## Features
 
 - **Secure user authentication** — Register, email OTP verify, login, JWT sessions
-- **Email verification** — 4-digit OTP via [Mailtrap](https://mailtrap.io/) HTTP API (same approach as INT222)
+- **Email verification** — 4-digit OTP via [Mailtrap](https://mailtrap.io/) HTTP API 
 - **Password security** — `bcryptjs` hashing
 - **Shared resources** — Books, tools, skills, space — request & approve flow
 - **Community projects** — Create projects, join requests, member management
