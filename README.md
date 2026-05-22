@@ -154,25 +154,9 @@ Open **http://localhost:3000**
 
 **Vercel env vars:** `VITE_API_URL` = `https://your-api.onrender.com/api`
 
-After 
 
----
 
-## Comparison with INT222 (Agri-Chain)
-
-| Feature | INT222 Project | EKYAM |
-|---------|----------------|-------|
-| JWT + bcrypt | Yes | Yes |
-| Email OTP (Mailtrap) | Yes | Yes |
-| Role-based access | Yes | Yes (member + admin) |
-| Live deployment | Vercel | Vercel + Render |
-| Domain features | Farming auth | Resources + Projects + Collaborations |
-| Admin panel | — | Yes |
-| REST CRUD | Auth focus | Auth + Resources + Projects |
-
-EKYAM matches the **technical bar** of the reference project and adds **more application features** for community collaboration.
-
----
+#
 
 ## Subject Report Mapping
 
